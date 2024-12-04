@@ -9,15 +9,4 @@
       "port": 1165
     }
     
-    {
-      "color": "FFFFFF",
-      "dopname": "(X2 АКЦИИ)",
-      "maxonline": 700,
-      "name": "RED",
-      "online": 999,
-      "host": "65.108.99.34",
-      "port": 2899
-    }
-
-    
   ]
